@@ -4,7 +4,7 @@
 
 ### :book: Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=square&amp;logo=Python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C++-4479A1?style=square&amp;logo=C%2B%2B&amp;logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=square&amp;logo=Python&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C++-4479A1?style=square&amp;logo=C%2B%2B&amp;logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/>
 
 ## 🥰 Profile 🙃
 
