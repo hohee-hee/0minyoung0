@@ -1,5 +1,3 @@
-## Solved.ac
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darkard37)](https://solved.ac/darkard37/)
 
 ## 📚 STACKS 
