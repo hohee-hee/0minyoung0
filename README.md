@@ -22,6 +22,8 @@
 
 2023.02 성균관대학교 기계공학부 졸업
 
+<br>
+
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:darkard37@gmail.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darkard37)](https://solved.ac/darkard37/)
