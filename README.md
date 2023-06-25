@@ -13,9 +13,13 @@
 
 # 🥰 Profile 🙃
 2023.05 삼성 청년 SW 아카데미 1학기 성적우수상 (1학기 코딩 집중과정 종합성적 서울8반 1등)
+
 2023.05 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상 (1학기 관통 프로젝트 서울8반 1등)
+
 2023.04 삼성 SW 역량테스트 B형 취득
+
 2023.01 ~ 2023.05 삼성 청년 SW아카데미 1학기(코딩 집중과정) 800 시간 이수
+
 2023.02 성균관대학교 기계공학부 졸업
 
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:darkard37@gmail.com)
