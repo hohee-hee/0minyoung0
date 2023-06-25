@@ -9,6 +9,8 @@
 ## :book: Studied
 <img src="https://img.shields.io/badge/C++-4479A1?style=square&amp;logo=C%2B%2B&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&amp;logo=react&amp;logoColor=white"/>
 
+<hr>
+
 # 🥰 Profile 🙃
 
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:darkard37@gmail.com)
