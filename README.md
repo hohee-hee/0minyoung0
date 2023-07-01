@@ -1,7 +1,5 @@
 # 📚 STACKS 
 
-<hr>
-
 ## :fire: Strong
 <img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&amp;logo=spring&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&amp;logo=springboot&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&amp;logo=mysql&amp;logoColor=white"/>
 
@@ -10,8 +8,6 @@
 
 ## :book: Studying
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=square&amp;logo=springsecurity&amp;logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=square&amp;logo=hibernate&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=square&amp;logo=amazonec2&amp;logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=square&amp;logo=amazonrds&amp;logoColor=white"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=square&amp;logo=githubactions&amp;logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&amp;logo=react&amp;logoColor=white"/> <img src="https://img.shields.io/badge/C++-4479A1?style=square&amp;logo=C%2B%2B&amp;logoColor=white"/>
-
-<hr>
 
 # 🥰 Profile
 
