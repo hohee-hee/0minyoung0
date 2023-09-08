@@ -30,7 +30,7 @@
 
 <hr>
 
-## 삼성 SW 역량테스트 B형 취득
+## 삼성 SW 역량테스트 B형
 ![삼성 SW 역량테스트 B형 취득](https://github.com/0minyoung0/BaekjoonHub/assets/122426037/72d6956e-af68-4957-be8e-097ef85c87e6)
 
 ## 백준 Solved.ac 프로필
