@@ -30,8 +30,17 @@
 
 <hr>
 
-## 삼성 SW 역량테스트 B형
-![삼성 SW 역량테스트 B형 취득](https://github.com/0minyoung0/BaekjoonHub/assets/122426037/72d6956e-af68-4957-be8e-097ef85c87e6)
+# 📜 certificate
+
+2023.09 PCCP (Programmers Certified Coding Professional) Java Lv.5 취득
+
+2023.09 정보처리기사 취득
+
+2023.08 HSAT Softeer Level 3 취득
+
+2023.04 삼성 SW 역량테스트 B형 취득
+
+<hr>
 
 ## Solved.ac 프로필
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darkard37)](https://solved.ac/darkard37/)
