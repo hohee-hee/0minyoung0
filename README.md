@@ -1,4 +1,4 @@
-# 📚 STACKS 
+# 📚 Stacks
 
 ## :fire: Strong
 <img src="https://img.shields.io/badge/java-007396?style=square&amp;logo=java&amp;logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&amp;logo=springboot&amp;logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&amp;logo=mysql&amp;logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=square&amp;logo=github&amp;logoColor=white"/>
