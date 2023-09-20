@@ -47,4 +47,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=darkard37)](https://solved.ac/darkard37/)
 
 ## Github Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=0minyoung0&row=1&column=5&theme=dracula&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=0minyoung0&row=1&column=6&theme=dracula&margin-w=15)
