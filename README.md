@@ -36,3 +36,5 @@
 
 ## Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=0minyoung0&row=1&column=6&theme=dracula&margin-w=15)
+
+<hr>
